@@ -1,0 +1,1 @@
+cmd /min /C "set __COMPAT_LAYER=RUNASINVOKER && start "" "CAMINHO_DO_PROGRAMA_COMPLETO.exe" "
